@@ -1,4 +1,4 @@
-package com.mikeprojects;
+package mikeprojects;
 
 import utility.reverseObject;
 
@@ -6,13 +6,12 @@ import utility.reverseObject;
 public class reverseNumber
 {
 
-    public static Integer reverseNumbeSub(String s) {
+    public static Integer reverseNumberSub(String s) {
 
 
         int n;
         int a = 0;
         int x;
-
 
         System.out.println("Enter any number:");
         n = Integer.parseInt(s);
@@ -44,7 +43,7 @@ public class reverseNumber
 
         reverseObject reverse = new reverseObject();
 
-       System.out.println( reverseNumber.reverseNumbeSub("1234"));
+      // System.out.println( reverseNumber.reverseNumbeSub("1234"));
        System.out.println( reverseNumber.reversNumber2(1234).trim());
         System.out.println(reverse.reverseItem("5678"));
 

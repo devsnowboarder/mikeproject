@@ -1,5 +1,5 @@
 
-package com.mikeprojects;
+package mikeprojects;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.List;

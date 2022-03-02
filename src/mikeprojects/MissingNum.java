@@ -1,5 +1,5 @@
 
-package com.mikeprojects;
+package mikeprojects;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

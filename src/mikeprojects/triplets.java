@@ -1,4 +1,4 @@
-package com.mikeprojects;
+package mikeprojects;
 
 // A simple Java program to find three elements
 // whose sum is equal to zero

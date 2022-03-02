@@ -1,4 +1,4 @@
-package com.mikeprojects;
+package mikeprojects;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Hashtable;

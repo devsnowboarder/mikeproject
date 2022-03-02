@@ -1,4 +1,4 @@
-package com.mikeprojects;
+package mikeprojects;
 
 public class test {
     public static void main(String[] args) {

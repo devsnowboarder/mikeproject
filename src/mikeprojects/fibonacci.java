@@ -1,4 +1,4 @@
-package com.mikeprojects;
+package mikeprojects;
 
 import utility.baseState;
 import utility.mathFunction;

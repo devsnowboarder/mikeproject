@@ -1,4 +1,4 @@
-package com.mikeprojects;
+package mikeprojects;
 public class MaxCharString {
 
     static final int ASCII_SIZE = 256;

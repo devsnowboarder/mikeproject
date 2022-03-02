@@ -1,6 +1,6 @@
 
 
-package com.mikeprojects;
+package mikeprojects;
 
 import java.io.*;
 import java.lang.*;

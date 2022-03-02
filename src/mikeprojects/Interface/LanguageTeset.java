@@ -1,4 +1,4 @@
-package com.mikeprojects.Interface;
+package mikeprojects.Interface;
 
 
 // create an interface
@@ -11,6 +11,7 @@ class ProgrammingLanguage implements Language {
 
     // implementation of abstract method
     public void getName(String name) {
+
         System.out.println("Programming Language: " + name);
     }
 }

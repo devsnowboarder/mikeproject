@@ -1,4 +1,4 @@
-package com.mikeprojects.sorting;
+package mikeprojects.sorting;
 
 public class MySelectionSort {
 

@@ -1,5 +1,5 @@
 
-package com.mikeprojects;
+package mikeprojects;
 import java.util.*;
 
 
@@ -30,7 +30,7 @@ public class MapExercise2 {
 
         for ( int i = 0 ; i <  items; i++)
         {
-            ht.put(itemlist[i],i);ls
+            ht.put(itemlist[i],i);
         }
 
           carList(ht);

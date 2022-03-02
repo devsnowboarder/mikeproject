@@ -1,4 +1,4 @@
-package com.mikeprojects;
+package mikeprojects;
 
 import java.util.*;
 
@@ -7,7 +7,6 @@ public class HashExercise {
 
 
     public static List<Character> sortList ( char [] list) {
-        Set <Character> set  = new HashSet<>();
 
         List <Character> cList = new ArrayList<>();
 

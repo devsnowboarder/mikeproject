@@ -1,5 +1,5 @@
 
-package com.mikeprojects;
+package mikeprojects;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -32,10 +32,6 @@ public class ListReverseWords {
         String city ="San Francisco California";
 
         System.out.println(ListReverseWords.reverseWord(city));
-
-
-
-
 
 
     }

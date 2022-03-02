@@ -1,4 +1,4 @@
-package com.mikeprojects;
+package mikeprojects;
 
 
 interface Animal {

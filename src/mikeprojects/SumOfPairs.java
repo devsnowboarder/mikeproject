@@ -1,5 +1,5 @@
 
-package com.mikeprojects;
+package mikeprojects;
 
 
 import java.util.HashSet;

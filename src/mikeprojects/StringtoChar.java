@@ -1,4 +1,4 @@
-package com.mikeprojects;
+package mikeprojects;
 import java.util.ArrayList;
 import java.util.List;
 

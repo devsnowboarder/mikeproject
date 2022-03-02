@@ -1,4 +1,4 @@
-package com.mikeprojects;
+package mikeprojects;
 import java.util.regex.Pattern;
 
 public class patternMatch2 {
