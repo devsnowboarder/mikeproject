@@ -14,6 +14,8 @@ public class duplicatewithSet {
         return input2;
     }
 
+
+
     public static void main(String[] args) {
 
         String[] inputArray ={"a","c","d","d","f","v"};
